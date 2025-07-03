@@ -1,0 +1,5 @@
+[
+  {"id": 1, "nombre": "Sérum", "descripcion": "Brinda luminosidad e hidrata"},
+  {"id": 2, "nombre": "Tónico", "descripcion": "Regula el pH de la piel"},
+  {"id": 3, "nombre": "Crema", "descripcion": "Hidrata y protege todo tipo de piel"}
+]
